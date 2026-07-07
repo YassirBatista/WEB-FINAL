@@ -49,7 +49,7 @@ final/
 
 Flujo visual del programa:
 
-![Diagrama de flujo del sistema](assets\images\Github\diagrama-de-flujo.png)
+![Diagrama de flujo del sistema](assets/images/Github/diagrama-de-flujo.png)
 
 ---
 
